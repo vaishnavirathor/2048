@@ -4,7 +4,8 @@ services:
   web:
     build: .
     ports:
-      - "5000:80"
+      - "5001:80"
     volumes:
       - ./:/var/www/html
 
+# C:\Users\VAISHNAVI RATHORE\Downloads\2048\Dockerfile
